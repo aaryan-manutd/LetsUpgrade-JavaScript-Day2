@@ -1,2 +1,1 @@
-# LetsUpgrade-JavaScript-Day2
-LetsUpgrade-JavaScript-Day2
+LetsUpgrade JavaScript Essentials Day 2 Assignment
